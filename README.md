@@ -99,6 +99,3 @@ interpretation is the scarce good in genomic AI.* See [ROADMAP.md](ROADMAP.md):
 honest clock auditing → variant→regulatory-consequence explainer → a 3D-genome
 interpreter for AlphaGenome's contact-map outputs.
 
-## License
-
-MIT. See [LICENSE](LICENSE).
